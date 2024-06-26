@@ -1,0 +1,7 @@
+*~
+*.la
+.libs
+*.lo
+*.o
+*.so
+t/iconv_test
